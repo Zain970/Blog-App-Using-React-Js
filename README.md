@@ -12,4 +12,4 @@ You may also see any lint errors in the console.
 4).Hooks , props , Router are the react topics used in making this blog
 
 1).npm start :- to run the app
-2).npx json-server --watch data/db.json --port 8000 to run the server
+2).npx json-server --watch data/db.json --port 8000 :- to run the server
